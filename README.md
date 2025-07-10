@@ -329,13 +329,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [github.com/your-username]
-- **PLP Academy Community**: #AIFutureAssignment
+- **Project Lead**: Michael Randa
+- **Email**: michaelranda95gmail.com
+- **GitHub**: github.com/MikeMitch88
+- **PLP Academy Community**: #AIFutureEngineer
 
 ### Getting Help
-- Check the [Issues](https://github.com/your-username/ai-future-directions/issues) page
+- Check the [Issues](https://github.com/michael_randa/ai-future-directions/issues) page
 - Join PLP Academy Community discussions
 - Review documentation in the `docs/` folder
 
