@@ -334,6 +334,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: github.com/MikeMitch88
 - **PLP Academy Community**: #AIFutureEngineer
 
+- AIgineers:
+  1. Sabulkong Valentine
+  2. Roda Muthoni
+  3. Onyango Rose
+  4. Nickson Onsombi
+
 ### Getting Help
 - Check the [Issues](https://github.com/michael_randa/ai-future-directions/issues) page
 - Join PLP Academy Community discussions
